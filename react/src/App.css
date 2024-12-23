@@ -1,0 +1,32 @@
+h1 {
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 30px;
+}
+
+input {
+    width: 100%;
+}
+
+.task {
+    width: 100%;
+}
+
+.item-container {
+    text-align: left;
+    width: 100%;
+}
+
+.TodoApp {
+    width: 70%;
+    margin: 10px auto;
+
+}
+
+.c-row {
+    margin: 10px 5px;
+}
+
+.btn {
+    min-width: 80px;
+}
